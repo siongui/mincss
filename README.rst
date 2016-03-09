@@ -15,6 +15,13 @@ Development Environment:
   - `Ubuntu 15.10`_
   - `Go 1.6`_
 
+Install
++++++++
+
+.. code-block:: bash
+
+  $ go get -u github.com/siongui/mincss
+
 Usage
 +++++
 
